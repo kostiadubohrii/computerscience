@@ -20,8 +20,9 @@ System libraries are special library functions using applications which need to 
 Maintenance of system utilities - organisation of files on the harddrive 
 
 Types of operating system 
-1) Distributed - spreads the work of the newtworking OS over a number of servers single process can be split up into several tasks - threads and these can be performed over several systems.
-***Multitasking***- that tasks can be performed to run in parallel shared acrosss a number of cores or independent processor units.
+1) Distributed - spreads the work of the newtworking OS over a number of servers single process can be split up into several tasks - threads and these can be performed over several systems
+
+2) ***Multitasking***- that tasks can be performed to run in parallel shared acrosss a number of cores or independent processor units.
 Embedded operating systems dedicated to processes which have a limited or single functionality, simple UI, programmed in low level lang.
 Real time operating systems must be able to respond to inpiuts and sensors quickly chemical processing systems, self drive.
 

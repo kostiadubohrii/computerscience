@@ -8,7 +8,7 @@
 Operating system architecture there are 3 main parts to an OS
 1) Kernal - is central component of the coputers os, provides the bridge between applications and the data at the hardware level. The kernal that responds to system calls, ahdlees interrupes and exceptions. This part of the OS control external hardware. Kernal has the ability to manipulate processor state - different processor states across different cores - kernal manages allocation of tasks across different cores - job scheduler within the OS which allocates different sections of the same task - different independent processes across different core processor 
 
-####Kernal provides the ability to different process to access to access files and maintains on the hard drive and in different locations in memory 
+Kernal provides the ability to different process to access to access files and maintains on the hard drive and in different locations in memory 
 Meta Data
 Author, file type, permissions and locations in memory. Each file in memory can be located over different secrors, clusters within the ard drivve - nodal address which points to the next part of the file. 
 
@@ -16,7 +16,7 @@ Author, file type, permissions and locations in memory. Each file in memory can 
  - Threads ( is a child of some process which can communicate with the parent process and other process, ecxecute program code.
  - Handles 
 
-###System libraries are special library functions using applications which need to access Kernal fearures - dae / time library and the use of the system clock 
+System libraries are special library functions using applications which need to access Kernal fearures - dae / time library and the use of the system clock 
 Maintenance of system utilities - organisation of files on the harddrive 
 
 Types of operating system 

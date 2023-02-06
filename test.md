@@ -1,6 +1,6 @@
 Hello world 
 
-```python 
+```js 
 
 print('Hello world')
 

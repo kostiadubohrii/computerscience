@@ -1,3 +1,4 @@
+```
 a = while n < 10: ##b I am trying to assign variable to key word while
   a = a + 12 
 
@@ -32,11 +33,13 @@ Write the set of rules for setting up Natianal Instruction number
 2 + 3
 23+ 
 CODE GENERATION this occurs once the AST has been created and checked againsts the rules of the language 
-  Convert each line of high lvl code into machine / processor specific machine code consisting of OpCode and Operands 
+  Convert each line of high lvl code into machine / processor specific machine code consisting of OpCode and Operands. Each line of HHL has a one to many relationship with Macine code allocate registers in the processor - translate logical addresses 
+  strMessage 
+  spread across different areas on the hard drives each with individual address refferences oprmosies to seek efficient the use of the registers.
   
   
   
-  
+  ```
   
   
   

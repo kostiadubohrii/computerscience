@@ -1,6 +1,6 @@
 Hello world 
 
-```ruby 
+```python  
 
 print('Hello world')
 

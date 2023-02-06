@@ -1,0 +1,23 @@
+a = while n < 10: ##b I am trying to assign variable to key word while
+  a = a + 12 
+
+Every pease of code has to pass through the 3 grate test.
+
+Compilation sesies 
+1) Lexical analyser - get rid of all whitespaces, comments 
+Tokenises the code organises them into token 
+5 token 
+1. Operators ( +, -, //, div,  == ) 
+2. Assigment =
+3. Key word - case, switch, while , input , for , if , elif, else, , input, ptint, in , enumerate, range
+4. Litterals, constants 
+5. User defined variables (arrays, variables, lists, data structure) f
+Data dictionary aka symbol data where meta data anout the data structures is stored
+Token stream - is the order in which the program instructions are going to be executed as defined by the user
+
+Code at this stage is passed through to the syntax analiser
+1) Does the code contain any words not matchibng the dictionary of key word? 
+
+Write the set of rules for setting up Natianal Instruction number 
+<letter><letter><digit><digit><digit><digit><letter> 
+2

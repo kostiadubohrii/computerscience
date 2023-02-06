@@ -1,6 +1,6 @@
 Hello world 
 
-```js 
+```ruby 
 
 print('Hello world')
 

@@ -20,4 +20,28 @@ Code at this stage is passed through to the syntax analiser
 
 Write the set of rules for setting up Natianal Instruction number 
 <letter><letter><digit><digit><digit><digit><letter> 
-2
+2)
+  
+  when programs  are executed in a computer they have to unambiguous. At this stage the syntax analyser creates and abstract syntax tree. The syntax tree is a 
+  unambiguous struccture which can be guranteed syntacticalluy correct and only reqadvable in one way.
+  2*3+4 
+  the rules regarding the interpretation of processing is also set down 
+  BIDMAS 
+  Alsom when interpreting instructions we use a stack and all instructions are interpretaated using RPN Reverse Polish Notation tree structure and post fixed 
+  notation 
+2 + 3
+23+ 
+CODE GENERATION this occurs once the AST has been created and checked againsts the rules of the language 
+  Convert each line of high lvl code into machine / processor specific machine code consisting of OpCode and Operands 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

@@ -18,5 +18,5 @@ itself can be incorporated into the program itself include a complete file for a
 <br>
 We dont need to use all of them, makes the fiels mush biggeer oonger to load, slowerr access times. We create a link and keep the files seperate - located in close proxmity import not all library functions 
 
-##Loading
+## Loading
 Is when the software is installed onto the drive - download, there is a operating system utility program called a loader and ites role is to load the library - incolved DLL - loader will need install the relevant library and create a logical address and read in 

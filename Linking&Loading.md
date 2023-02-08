@@ -13,7 +13,7 @@ Allocates physical addresses where mach9ine code instructions are stored, regins
 ## Linking and loading
 
 ### Linking
-A compilation factor is where programs are using external or internal library functrions and how rherse are managed. Linking can be done in 2 ways the <br> library <br>
+A compilation factor is where programs are using external or internal library functrions and how rherse are managed. Linking can be done in 2 ways the library 
 itself can be incorporated into the program itself include a complete file for all libraries - tkinter, PyQt, Sqlite, os, datetime, rendom, csv.<br>
 <br>
 We dont need to use all of them, makes the fiels mush biggeer oonger to load, slowerr access times. We create a link and keep the files seperate - located in close proxmity import not all library functions 

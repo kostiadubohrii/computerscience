@@ -11,3 +11,9 @@ Immediate addressing refers to the loading of the data item itself into memory
 ```
 LOAD [321] // load the number 321 into the accumulator 
 ``` 
+Direct addressing refers to the address reference where tge data items in located LOAD 41 the data item 12 lives there.
+
+Inderect Addressing accts as a lookup table pints to an address reference in memory which contains the address of the data item to be fetched.
+Indexed Addressing 
+
+relative addressing - refers to changes in the address held at the program counter when a branching condition is activated.

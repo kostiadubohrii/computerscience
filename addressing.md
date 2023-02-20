@@ -1,6 +1,6 @@
-##Addressing 
+## Addressing 
 
-addressing modes - refers to the way in which the operating system directs ardretrieves data items held in memory
+Addressing modes - refers to the way in which the operating system directs ardretrieves data items held in memory
 > There are 4 different addressing modes we need to be aware of:
 - machine code instructions consist of 2 items ( Operand - address reference of the instruction 
  * address reference  in memory 
